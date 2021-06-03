@@ -1,0 +1,122 @@
+nav p{
+  background-color: SkyBlue;
+  text-align: center;
+  font-size: 35px;
+  font-family: Lucida Console;
+  
+}
+nav img{
+ margin: 10px;
+  border: 5px double CadetBlue;
+  padding: 13px;
+  border-radius: 15px;
+}
+header h2{
+  color: Lightblue;
+  background-color: MediumSlateBlue;
+  padding: 4px;
+}
+body {
+  background-color: lightblue;
+  font-family: Times New Roman;
+  font-family: MS Sans Serif;
+}
+nav a{
+ margin: 10px;
+  border: 5px double CadetBlue;
+  padding: 13px;
+  border-radius: 15px; 
+  text-decorations: none;
+  background-color: SkyBlue; 
+}
+header p{
+  font-size: 25px;
+}
+.piro {
+  border: 10px inset lightblue;
+  padding: 3px;
+  background-color: lightblue;
+}
+.piro2 {
+   border-right: 2px solid yellow;
+  border-left: 2px solid yellow;
+  font-size: 20px;
+  color: OrangeRed;
+  background-color:LightSalmon;
+}
+.piro22 {
+   border-right: 2px solid yellow;
+  border-left: 2px solid yellow;
+  font-size: 18px;
+  color: OrangeRed;
+  background-color:LightSalmon;
+}
+.piro3 {
+    border-right: 2px solid Turquoise;
+  border-left: 2px solid Turquoise;
+  font-size: 20px;
+  color: SteelBlue;
+  background-color:PaleTurquoise;
+}
+.krio{
+  background-color:LightSteelBlue;
+  padding: 2px;
+}
+.el {
+  color: DarkViolet;
+      border-right: 2px solid MediumOrchid;
+  border-left: 2px solid MediumOrchid;
+  font-size: 20px;
+  background-color: MediumPurple;
+  
+}
+.geo {
+  font-size: 20px;
+  background-color: Sienna;
+  color: Peru;
+ border-right: 2px solid brown;
+  border-left: 2px solid brown;
+}
+.hidro {
+    font-size: 20px;
+  background-color: RoyalBlue;
+  color: MidnightBlue;
+ border-right: 2px solid blue;
+  border-left: 2px solid blue;
+}
+.anemo{
+      font-size: 20px;
+  background-color: PaleTurquoise;
+  color: DarkTurquoise;
+ border-right: 2px solid DarkTurquoise;
+  border-left: 2px solid DarkTurquoise;
+}
+.as {
+  background-color: black;
+  color:white;
+  padding: 2px;
+  border: 1px solid black;
+  border-radius: 10px;
+}
+.asas {
+  background-color: MediumPurple;
+  padding: 10px;
+  border: 3px groove purple;
+  border-radius: 25px;
+}
+.ass {
+  background-color: grey;
+  padding: 10px;
+  border: 3px solid DimGray;
+  border-radius: 25px;
+}
+.h2222 {
+  border: 3px solid SteelBlue;
+  border-radius: 15px;
+}
+.comb  {
+  background-color: lightgreen;
+  border: 5px double green;
+  border-radius: 15px;
+  padding: 6px;
+}
